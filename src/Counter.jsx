@@ -9,7 +9,7 @@ function Counter() {
    let incCount = () => {
     setCount(count + 1)
     // count += 1;
-    console.log(count);
+    // console.log(count);
    }
 
   return (
